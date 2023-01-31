@@ -1,0 +1,19 @@
+.navBar {
+    width: 100%;
+    display:flex;
+    justify-content:space-between;
+    background-color: rgb(0, 0, 34);
+
+}
+.logoIron {
+    height: 50px;
+    width: 50px;
+    margin-left: 60px;
+    margin-top: 15px;
+}
+.menuNav {
+    height: 50px;
+    width: 50px;
+    margin-right: 35px;
+    margin-top: 15px;
+}

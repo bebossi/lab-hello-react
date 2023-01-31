@@ -1,0 +1,27 @@
+.h1Header{
+    font-size: 70px;
+    color: white;
+    margin: 0;
+}
+.header{
+    padding-left: 65px;
+    background-color: rgb(0, 0, 34);
+    padding-top: 100px;
+    padding-bottom: 80px;
+
+}
+.header p {
+    font-size: 25px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+.header button {
+    font-size: 25px;
+    font-weight: bolder;
+    height: 75px;
+    width: 160px;
+    background-color: white;
+    border-radius: 5px;
+    border-color: white ;
+}
